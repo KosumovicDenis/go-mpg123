@@ -3,6 +3,7 @@
 package mpg123
 
 /*
+#include <stdlib.h>
 #include <mpg123.h>
 #cgo LDFLAGS: -lmpg123
 
